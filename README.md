@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Rhenz Jhovanne Urriza
+##  👋Hi there, I'm Rhenz Jhovanne Urriza
 
-
+## 🎓 About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
