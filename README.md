@@ -1,19 +1,12 @@
-# 🎓 Hello, I'm Rhenz Jhovanne Urriza
-
-## 4th Year BSIT Student  
-Passionate about technology, coding, and building web and mobile applications.
-
+##  👋Hi there, I'm Rhenz Jhovanne Urriza
 ---
+## 🎓 About Me
 
-## Goals
-- Currently learning **Flutter** and **Firebase** for mobile app development  
-- Exploring **web development** with **HTML**, **CSS**, and **JavaScript**  
-- Aiming to improve my skills in **backend development** and **UI/UX design**
-
----
-
-## Skills
-- **Beginner** in **Flutter** and **Firebase**  
-- Knowledgeable in **HTML**, **CSS**, and **JavaScript** for web development  
-- Exploring **Figma** for **UI/UX design**  
-- Basic understanding of **cloud technologies** and **APIs**
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
