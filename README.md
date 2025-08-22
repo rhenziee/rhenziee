@@ -1,6 +1,8 @@
 # 👋Hi there, I'm Rhenz Jhovanne Urriza
 
-I'm a BSIT student at Laguna State Polytechnic University
+## 👨‍💻 About Me
+- I'm a BSIT student at Laguna State Polytechnic University
+- - 
 
  
 ---
