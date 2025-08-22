@@ -1,7 +1,6 @@
 # 👋Hi there, I'm Rhenz Jhovanne Urriza
 
-## 🎓 About Me
-I'm a **4th-year BSIT student** passionate about **coding**, **web development**, and **mobile app development**. I’m always eager to learn and apply new technologies to solve real-world problems.
+I'm a BSIT student at Laguna State Polytechnic University
 
  
 ---
