@@ -1,8 +1,6 @@
-## Hi there 👋, I'm Rhenz Jhovanne Urriza
+ Hi there 👋, I'm Rhenz Jhovanne Urriza
 
-nziee/rhenziee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
