@@ -1,11 +1,16 @@
 # 👋Hi there, I'm Rhenz Jhovanne Urriza
 
 ## 👨‍💻 **About Me** 
--- I'm a BSIT student at Laguna State Polytechnic University
+- BS Information Technology Major in Web and Mobile Applications Development student at **Laguna State Polytechnic University**.
+- Beginner Developer, continuously learning and building **web** and **mobile applications**.
+- Improving my skills in **HTML**, **CSS**, **JavaScript**, **Python**, **PHP**, **Flutter**, and **Dart**.
+- Knowledgeable on in **PHPMyAdmin (XAMPP)** for managing databases.
+- Exploring **Firebase** for backend services and real-time databases.
+- Passionate about both **frontend** and **backend** development – aiming to become a **full-stack developer**.
 
-
- 
 ---
+
+## 🎯 **Goals**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
