@@ -34,5 +34,5 @@ I have basic knowledge on the following:
 
 ##   📫 **Contact**
 - 📧 Email: urrizarhenzyy14@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/rhenzyy-urriza-2541b217b
+- 🔗 LinkedIn: https://www.linkedin.com/in/rhenz-urriza/
 
