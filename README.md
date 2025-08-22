@@ -23,5 +23,16 @@
 ---
 
 ##  💻  **Skills**
-- 
+I have basic knowledge on the following:
+- **Languages**: **Python**, **HTML**, **CSS**, **JavaScript**, **PHP**, **Dart**
+- **Frameworks**: **Flask**, **Flutter**
+- **Databases**: **MySQL**, **Firebase** 
+- **Tools**: **PHPMyAdmin (XAMPP)** , **GitHub** , **Figma** 
+- **Other**: **UI/UX Design**, **Networking**, **Cross-Platform Development**
+  
+---
+
+##   📫 **Contact**
+- 📧 Email: urrizarhenzyy14@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/rhenzyy-urriza-2541b217b
 
