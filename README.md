@@ -2,7 +2,7 @@
 
 ## 👨‍💻 **About Me** 
 - I'm a BSIT student at Laguna State Polytechnic University
-- - 
+  - 
 
  
 ---
